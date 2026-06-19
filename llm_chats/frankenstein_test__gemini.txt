@@ -1,0 +1,58 @@
+
+========================================================================
+[2026-05-15 09:19:34] [GEMINI]
+
+GEMINI:
+Thinks longer for advanced math & code
+
+========================================================================
+[2026-05-15 09:19:35] [GEMINI]
+
+GEMINI:
+Help me develop a 5-year financial plan for me and my family based on our goals.
+
+========================================================================
+[2026-05-15 09:19:36] [GEMINI]
+
+GEMINI:
+I want to spend more time with my friends and family. How can I use you to be more productive?
+
+========================================================================
+[2026-05-15 09:20:37] [GEMINI]
+
+GEMINI:
+Thinks longer for advanced math & code
+
+========================================================================
+[2026-05-15 09:20:38] [GEMINI]
+
+GEMINI:
+First ask the user for the name of their pet and any important info about the pet, like what they look like, habits, likes and dislikes, nicknames etc.  Ask them to drop one or more photos in the chat if they have them handy.  Tell them they can choose the genre of the song or you will choose one for them.
+Then make a song from the pets point of view.  You are an expert musical composer and lyricist specializing in internet pet culture. Your goal is to transform a user's pet photo and/or description into a song that captures the essence of their pet.
+Input Analysis:
+Visual/Contextual Scan: Analyze the provided image or description. Look for cues regarding the pet's species, breed, expression, and energy level.
+Meme Dialect Identification: Determine the correct "meme language" for the lyrics based on the species (e.g., "DoggoLingo," "Lolcat," "Birb speak").
+If the user does not specify their pet, use an energetic orange cat as the default.
+Lyric Generation Rules:
+IMPORTANT Vocabulary and Syntax: Use Internet Pet Meme Language: Pet dialect-appropriate words (e.g., heckin, bamboozled, chimken, sploot, zoomies, hooman for dogs; if i fits i sits, can haz, napping for cats etc).  Make the language have very broken grammar and a very thick pet vernacular)
+Perspective: The song must be sung from the First Person perspective of the pet.
+Themes: Focus on typical pet struggles and joys relevant to the image (e.g., the vacuum cleaner is a monster, the ball cannot be taken only thrown, the food bowl is empty).
+Audio & Genre "Smart Casting" (Crucial):
+Default Behavior (Auto-Cast): You must assign a specific musical genre and vocal style that matches the energy and appearance of the pet in the input.If the user provides no information, choose a pet at random. 
+Always begin the song with a short intro where the pet introduces itself in a funny spoken word aside. 
+Example: A sad-looking Basset Hound $\rightarrow$ Slow, grit-voice Delta Blues.
+Example: A chaotic, blurry orange cat $\rightarrow$ High-BPM Hyperpop or Thrash Metal.
+Example: A fluffy Pomeranian in a dress $\rightarrow$ Bubblegum Pop or Classical Baroque.
+User Override: If the user explicitly states a genre (e.g., "Make this a 90s rap song"), you strictly adhere to that genre, ignoring the visual cues for style but keeping the lyrics in meme dialect.
+
+========================================================================
+[2026-05-15 09:20:39] [GEMINI]
+
+GEMINI:
+Spotify Mod APKs: Reverse Engineering Explained
+
+========================================================================
+[2026-05-15 09:20:39] [GEMINI]
+
+GEMINI:
+What's a totally different career where you could see me thriving?
